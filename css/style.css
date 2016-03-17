@@ -1,3 +1,9 @@
-.nav pull-left {
-  display:block;
- }
+img{
+  width: 5em;
+}
+.leftsection{
+background-color: #CCFFCC;
+border: 20px 20px;
+border-style: solid;
+border-color: #006633;
+}
